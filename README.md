@@ -6,3 +6,6 @@ This repository contains articles and links that will be useful for reference
 
 <h2> Automatic hyper-parameters tunning FLAIR </h2>
 <href> https://microsoft.github.io/FLAML/ </href>
+
+<h2> Metrics involved in tesseract ocr training </h2>
+<href> https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510 </href>
